@@ -8,16 +8,15 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 
 ## Research Interests
 
-- **Affective Computing**
-- **Computer Vision** 
-- **Machine Learning** 
+- Affective Computing
+- Machine Learning
+- Human Behavior Understanding
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb 2023]** We are organizing Ambient Intelligence for Healthcare workshop at MICCAI 2023 in Vancouver.
+- **[Jan 2023]** Our paper titled "Predicting Vasovagal Reactions to Needles from Facial Action Units" has been published at Journal of Clinical Medicine.
+- **[Oct 2022]** Our paper on pain detection using vision transformers has been accepted to VTTA workshop at NeurIPS 2022.
 
 {% include_relative _includes/publications.md %}
 

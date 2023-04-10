@@ -7,6 +7,27 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2022/InfantAFAR_pipeline.pdf" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">BRM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Infant AFAR: Automated Facial Action Recognition in Infants</a></div>
+    <div class="author"><strong>Itir Onal Ertugrul</strong>, Yeojin Amy Ahn, Maneesh Bilalpur, Daniel S. Messinger, Matthew L. Speltz, Jeffrey F. Cohn</div>
+    <div class="periodical"><em>Behavior Research Methods <strong>(BRM)</strong>, 2022.</em></div>
+    <div class="links">
+      <a href="https://doi.org/10.3758/s13428-022-01863-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+      <a href="https://github.com/AffectAnalysisGroup/AFARtoolbox/tree/master/InfantAFAR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:-cUMaDijFKIJ:scholar.google.com/&output=citation&scisdr=Cpur9rSpEJXuiqnyDlA:AJ9-iYsAAAAAZDP0FlDhl8eO4CoDrsj3il1-rg0&scisig=AJ9-iYsAAAAAZDP0FqR2EzzlyF9z8-3kPdpBrtg&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+  
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
@@ -24,6 +45,9 @@
     </div>
   </div>
 </div>
+  
+  
+  
 </li>
   
 <br>

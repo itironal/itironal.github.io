@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Itir Onal Ertugrul
+position: Assistant Professor
+affiliation: Utrecht University
+email: i.onalertugrul (at) uu.nl
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,11 +12,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.nl/citations?user=ixF65i4AAAAJ&hl=nl
+cv_link: assets/files/ItirOnalErtugrulCV_March23.pdf
+github_link: https://github.com/itironal
+linkedin: https://www.linkedin.com/in/it%C4%B1r-%C3%B6nal-ertu%C4%9Frul-b9601440/
+twitter: https://twitter.com/itironal
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

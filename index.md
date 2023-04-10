@@ -8,8 +8,9 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Affective Computing**
+- **Computer Vision** 
+- **Machine Learning** 
 
 ## News
 

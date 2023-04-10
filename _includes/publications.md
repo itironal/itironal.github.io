@@ -8,7 +8,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/2022/InfantAFAR_pipeline.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">BRM</abbr>
+    <!--<abbr class="badge">BRM</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -27,7 +27,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/2021/SyntheticExpressions.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">WACV</abbr>
+    <!--<abbr class="badge">WACV</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">

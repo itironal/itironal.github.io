@@ -21,7 +21,8 @@
     </div>
   </div>
 </div>
-  
+
+<p/>  
   
 <div class="pub-row">
 
@@ -41,6 +42,7 @@
   </div>
 </div>
 
+<p/>  
 
 <div class="pub-row">
 
@@ -60,6 +62,8 @@
   </div>
 </div>
 
+<p/>  
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -70,7 +74,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/papers/OnalErtugrul_TBIOM_AAM.pdf">Crossing Domains for AU Coding: Perspectives, Approaches, and Measures</a></div>
     <div class="author">Itir Onal Ertugrul, Jeffrey F. Cohn, Laszlo A. Jeni, Zheng Zhang, Lijun Yin, and Qiang Ji</div>
-    <div class="periodical"><em>Transactions on Biometrics, Behavior, and Identity Science <strong>TBIOM</strong>, 2020.</em></div>
+    <div class="periodical"><em>Transactions on Biometrics, Behavior, and Identity Science <strong>(TBIOM)</strong>, 2020.</em></div>
     <div class="links">
     
       
@@ -78,6 +82,41 @@
   </div>
 </div>
   
+
+<p/>  
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2020/dpattnet.jpeg" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.frontiersin.org/articles/10.3389/fcomp.2019.00011/full">D-PAttNet: Dynamic Patch-Attentive Deep Network for Action Unit Detection</a></div>
+    <div class="author"><strong>Itir Onal Ertugrul</strong>, Le Yang, Laszlo A. Jeni, and Jeffrey F. Cohn</div>
+    <div class="periodical"><em>Frontiers in Computer Science, 2020.</em></div>
+    
+  </div>
+</div>  
+
+
+<p/>  
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2019/pattnet.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.jeffcohn.net/wp-content/uploads/2019/07/BMVC2019_PAttNet.pdf.pdf">PAttNet: Patch-attentive deep network for action unit detection</a></div>
+    <div class="author"><strong>Itir Onal Ertugrul</strong>, Laszlo A. Jeni, and Jeffrey F. Cohn</div>
+    <div class="periodical"><em>British Machine Vision Conference <strong>(BMVC)</strong>, 2019.</em></div>
+    
+  </div>
+</div> 
   
   
 </li>

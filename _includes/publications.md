@@ -171,6 +171,23 @@
     
   </div>
 </div> 
+
+<p/>  
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2018/facscaps.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content_cvpr_2018_workshops/w41/html/Ertugrul_FACSCaps_Pose-Independent_Facial_CVPR_2018_paper.html">FACSCaps: Pose-Independent Facial Action Coding With Capsules</a></div>
+    <div class="author"><strong>Itir Onal Ertugrul</strong>, Laszlo A. Jeni, and Jeffrey F. Cohn</div>
+    <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Workshops, 2018.</em></div>
+    
+  </div>
+</div> 
   
   
 </li>

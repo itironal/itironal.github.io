@@ -106,6 +106,60 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2019/afar.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://par.nsf.gov/servlets/purl/10168237">AFAR: A Deep Learning Based Tool for Automated Facial Affect Recognition</a></div>
+    <div class="author">Le Yang, <strong>Itir Onal Ertugrul</strong>, Laszlo, A. Jeni, Wanqiao Ding, Jeffrey F. Cohn</div>
+    <div class="periodical"><em>International conference on automatic face & gesture recognition<strong>(FG)</strong>, 2019.</em></div>
+    <a href="https://github.com/AffectAnalysisGroup/AFARtoolbox/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+  </div>
+</div> 
+
+<p/>  
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2019/cross-domain-au.jpeg" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6867108/">Cross-domain AU Detection: Domains, Learning Approaches, and Measures</a></div>
+    <div class="author">Itir Onal Ertugrul, Jeffrey F. Cohn, Laszlo A. Jeni, Zheng Zhang, Lijun Yin, and Qiang Ji</div>
+    <div class="periodical"><em>International conference on automatic face & gesture recognition<strong>(FG)</strong>, 2019.</em></div>
+    <div class="links">
+    
+      
+    </div>
+  </div>
+</div>
+
+<p/>  
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2019/acii19.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://par.nsf.gov/servlets/purl/10168237">FACS3D-Net: 3D Convolution based Spatiotemporal Representation for Action Unit Detection</a></div>
+    <div class="author">Le Yang, <strong>Itir Onal Ertugrul</strong>, Jeffrey F. Cohn, Zakia Hammal, Dongmei Jiang, Hichem Sahli</div>
+    <div class="periodical"><em>International Conference on Affective Computing and Intelligent Interaction <strong>(ACII)</strong>, 2019.</em></div>
+    
+  </div>
+</div> 
+
+<p/>  
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/2019/pattnet.png" class="teaser img-fluid z-depth-1">
     <!--<abbr class="badge">WACV</abbr>-->
   </div>

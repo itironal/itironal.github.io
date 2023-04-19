@@ -59,6 +59,24 @@
     </div>
   </div>
 </div>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2020/crossing_domains.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/papers/OnalErtugrul_TBIOM_AAM.pdf">Crossing Domains for AU Coding: Perspectives, Approaches, and Measures</a></div>
+    <div class="author">Itir Onal Ertugrul, Jeffrey F. Cohn, Laszlo A. Jeni, Zheng Zhang, Lijun Yin, and Qiang Ji</div>
+    <div class="periodical"><em>Transactions on Biometrics, Behavior, and Identity Science <strong>TBIOM</strong>, 2020.</em></div>
+    <div class="links">
+    
+      
+    </div>
+  </div>
+</div>
   
   
   

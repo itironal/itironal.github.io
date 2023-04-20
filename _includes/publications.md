@@ -114,7 +114,9 @@
     <div class="title"><a href="https://par.nsf.gov/servlets/purl/10168237">AFAR: A Deep Learning Based Tool for Automated Facial Affect Recognition</a></div>
     <div class="author">Le Yang, <strong>Itir Onal Ertugrul</strong>, Laszlo, A. Jeni, Wanqiao Ding, Jeffrey F. Cohn</div>
     <div class="periodical"><em>International conference on automatic face & gesture recognition<strong>(FG)</strong>, 2019.</em></div>
+    <div class="links">
     <a href="https://github.com/AffectAnalysisGroup/AFARtoolbox/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+  </div>
   </div>
 </div> 
 

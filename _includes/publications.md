@@ -170,7 +170,10 @@
     <div class="title"><a href="https://www.jeffcohn.net/wp-content/uploads/2019/07/BMVC2019_PAttNet.pdf.pdf">PAttNet: Patch-attentive deep network for action unit detection</a></div>
     <div class="author"><strong>Itir Onal Ertugrul</strong>, Laszlo A. Jeni, and Jeffrey F. Cohn</div>
     <div class="periodical"><em>British Machine Vision Conference <strong>(BMVC)</strong>, 2019.</em></div>
+    <div class="links">
+      <a href="https://github.com/AffectAnalysisGroup/PAttNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     
+  </div>
   </div>
 </div> 
 

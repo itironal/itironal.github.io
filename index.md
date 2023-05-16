@@ -14,7 +14,8 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 
 ## News
 
-- **[Feb 2023]** We are organizing Ambient Intelligence for Healthcare workshop at MICCAI 2023 in Vancouver.
+- **[Apr 2023]** I gave a Rita Vuyk Lecture on automated analysis and synthesis of facial actions in adults and infants at University of Amsterdam.
+- **[Feb 2023]** We are organizing [Ambient Intelligence for Healthcare](https://ami4hc.stanford.edu/) workshop at MICCAI 2023 in Vancouver.
 - **[Jan 2023]** Our paper titled "Predicting Vasovagal Reactions to Needles from Facial Action Units" has been published at Journal of Clinical Medicine.
 - **[Oct 2022]** Our paper on pain detection using vision transformers has been accepted to VTTA workshop at NeurIPS 2022.
 

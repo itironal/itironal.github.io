@@ -19,7 +19,7 @@ vision transformers for pain detection</a></div>
     <div class="periodical"><em>NeurIPS 2022 Workshop on Vision Transformers: Theory and Applications <strong>(VTTA)</strong>, 2022.</em></div>
     <div class="links">
       <a href="https://github.com/IPDTFE/ViT-McMaster" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-
+      <a href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/61316.png?t=1669661317.4587843" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>

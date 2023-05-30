@@ -4,6 +4,26 @@
 <ol class="bibliography">
 
 <li>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2022/InfantAFAR_pipeline.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">BRM</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://drive.google.com/file/d/1mfuiUbYSnfXQ88Su5Hlf7vw75Jz07uEh/view">Fully-attentive and interpretable: vision and video
+vision transformers for pain detection</a></div>
+    <div class="author">Giacomo Fiorentini, <strong>Itir Onal Ertugrul</strong>, Albert Ali Salah</div>
+    <div class="periodical"><em>NeurIPS 2022 Workshop on Vision Transformers: Theory and Applications <strong>(VTTA)</strong>, 2022.</em></div>
+    <div class="links">
+      <a href="https://github.com/IPDTFE/ViT-McMaster" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+
+    </div>
+  </div>
+</div>
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">

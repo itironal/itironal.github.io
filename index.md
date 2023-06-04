@@ -14,6 +14,8 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 
 ## News
 
+- **[Jun 2023]** Our paper titled "Automated Emotional Valence Estimation in Infants with Stochastic and Strided Temporal Sampling" has been accepted at ACII 2023.
+- **[May 2023]** Our paper titled "Predicting vasovagal reactions to needles with anticipatory facial temperature profiles" has been accepted at Nature Scientific Reports.
 - **[Apr 2023]** I gave a Rita Vuyk Lecture on automated analysis and synthesis of facial actions in adults and infants at University of Amsterdam.
 - **[Feb 2023]** We are organizing [Ambient Intelligence for Healthcare](https://ami4hc.stanford.edu/) workshop at MICCAI 2023 in Vancouver.
 - **[Jan 2023]** Our paper titled "Predicting Vasovagal Reactions to Needles from Facial Action Units" has been published at Journal of Clinical Medicine.

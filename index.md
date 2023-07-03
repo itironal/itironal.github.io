@@ -12,6 +12,8 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 - Machine Learning
 - Human Behavior Understanding
 
+[Publications](_includes/publications.md)
+
 ## News
 
 - **[Jun 2023]** Our paper titled "Automated measurement of infant and mother Duchenne facial expressions in the Face-to-Face/Still-Face" has been accepted for publication in Infancy.

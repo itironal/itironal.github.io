@@ -12,7 +12,7 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 - Machine Learning
 - Human Behavior Understanding
 
-[Publications](./_includes/publications.html)
+[Publications](./another-page.html)
 
 ## News
 

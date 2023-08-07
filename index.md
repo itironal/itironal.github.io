@@ -15,7 +15,7 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
-- **[Aug 2023]** Our demo paper "[PyAFAR: Python-based automated facial action recognition for use in infants and adults](https://www.jeffcohn.net/publications/#:~:text=PyAFAR%3A%20Python%2Dbased%20automated%20facial%20action%20recognition%20for%20use%20in%20infants%20and%20adults.) is accepted at ACII 2023. Stay tuned for the code and executables."
+- **[Aug 2023]** Our demo paper "[PyAFAR: Python-based automated facial action recognition for use in infants and adults](https://www.jeffcohn.net/publications/#:~:text=PyAFAR%3A%20Python%2Dbased%20automated%20facial%20action%20recognition%20for%20use%20in%20infants%20and%20adults.)" is accepted at ACII 2023. Stay tuned for the code and executables.
 - **[Jul 2023]** Our paper titled "[Automated measurement of infant and mother Duchenne facial expressions in the Face-to-Face/Still-Face](https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/Infancy-2023-Ahn-AutomatedmeasurementofinfantandmotherDuchennefacialexpressionsintheFace%E2%80%90to%E2%80%90Face.pdf)" has been published at Infancy.
 - **[Jun 2023]** Our preprint is online: [Can an Unobtrusive, Multimodal Mixed-Effects Regressor Based on Open-Ended Interviews Predict OCD Severity?](https://www.techrxiv.org/articles/preprint/Can_an_Unobtrusive_Multimodal_Mixed-Effects_Regressor_Based_on_Open-Ended_Interviews_Predict_OCD_Severity_/23256119)
 - **[Jun 2023]** Our paper titled "Automated Emotional Valence Estimation in Infants with Stochastic and Strided Temporal Sampling" has been accepted at ACII 2023.

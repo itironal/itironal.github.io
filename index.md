@@ -15,6 +15,7 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
+- **[Aug 2023]** Our paper "Deciphering Entrepreneurial Pitches: A Multimodal Deep Learning Approach to Predict Probability of Investment" has been accepted at ICMI 2023.
 - **[Aug 2023]** Our demo paper "[PyAFAR: Python-based automated facial action recognition for use in infants and adults](https://www.jeffcohn.net/wp-content/uploads/2023/08/ACII_2023_paper_242-2.pdf)" is accepted at ACII 2023. Stay tuned for the code and executables.
 - **[Jul 2023]** Our paper titled "[Automated measurement of infant and mother Duchenne facial expressions in the Face-to-Face/Still-Face](https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/Infancy-2023-Ahn-AutomatedmeasurementofinfantandmotherDuchennefacialexpressionsintheFace%E2%80%90to%E2%80%90Face.pdf)" has been published at Infancy.
 - **[Jun 2023]** Our preprint is online: [Can an Unobtrusive, Multimodal Mixed-Effects Regressor Based on Open-Ended Interviews Predict OCD Severity?](https://www.techrxiv.org/articles/preprint/Can_an_Unobtrusive_Multimodal_Mixed-Effects_Regressor_Based_on_Open-Ended_Interviews_Predict_OCD_Severity_/23256119)

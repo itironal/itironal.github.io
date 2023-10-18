@@ -213,6 +213,23 @@ vision transformers for pain detection</a></div>
     
   </div>
 </div> 
+
+<p/>  
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2017/kinship.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">WACV</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/papers/FG_kinship_synthesis.pdf">What will your future child look like? Modeling and Synthesis of Hereditary Patterns of Facial Dynamics</a></div>
+    <div class="author"><strong>Itir Onal Ertugrul</strong>, Hamdi Dibeklioglu</div>
+    <div class="periodical"><em>International conference on automatic face & gesture recognition<strong>(FG)</strong>, 2017.</em></div>
+    
+  </div>
+</div> 
   
   
 </li>

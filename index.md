@@ -15,6 +15,7 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
+- **[Dec 2023]** Our paper titled "Face the Needle: Predicting risk of fear and fainting during blood donation through video analysis" has been accepted at FG 2024.
 - **[Oct 2023]** Dr. Roy Hessels and I received the Dynamics of Youth Invigoration Grant for our project "Automated assessment of internalizing and externalizing behavior of children from parent-child interaction videos"!
 - **[Aug 2023]** Our paper "[Deciphering Entrepreneurial Pitches: A Multimodal Deep Learning Approach to Predict Probability of Investment](assets/papers/ICMI_2023_deciphering.pdf)" has been accepted at ICMI 2023.
 - **[Aug 2023]** Our demo paper "[PyAFAR: Python-based automated facial action recognition for use in infants and adults](https://www.jeffcohn.net/wp-content/uploads/2023/08/ACII_2023_paper_242-2.pdf)" is accepted at ACII 2023. Stay tuned for the code and executables.

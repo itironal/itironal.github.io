@@ -15,6 +15,7 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
+- **[Apr 2024]** Our demo paper titled "[Expanding PyAFAR: A Novel Privacy-Preserving Infant AU Detector](assets/papers/FG2024_demo_pyafar.pdf)" has been accepted at FG 2024. It is the first publicly available infant  action unit (AU) detector. You can find more information on how to install and use it, check [our website](https://affectanalysisgroup.github.io/PyAFAR/).
 - **[Jan 2024]** Our paper titled "[Elucidating the exposure bias in diffusion models](https://arxiv.org/abs/2308.15321)" has been accepted at ICLR 2024.
 - **[Dec 2023]** Our paper titled "Face the Needle: Predicting risk of fear and fainting during blood donation through video analysis" has been accepted at FG 2024.
 - **[Oct 2023]** Dr. Roy Hessels and I received the Dynamics of Youth Invigoration Grant for our project "Automated assessment of internalizing and externalizing behavior of children from parent-child interaction videos"!

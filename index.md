@@ -16,7 +16,7 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 
 ## News
 - **[Apr 2024]** [PyAFAR](https://pyafar.org/) is released! It features the first publicly available infant action unit (AU) detector. For more information on how to install and use it, check [our website](https://github.com/AffectAnalysisGroup/PyAFAR/wiki/3.-Installation).
-- **[Apr 2024]** Our paper titled "Multimodal prediction of obsessive-compulsive disorder, comorbid depression, and energy of deep brain stimulation" has been accepted for publication at **Transactions on Affective Computing**. Preprint can be found [here](https://doi.org/10.36227/techrxiv.23256119.v2).
+- **[Apr 2024]** Our paper titled "Multimodal prediction of obsessive-compulsive disorder, comorbid depression, and energy of deep brain stimulation" has been accepted for publication at **IEEE Transactions on Affective Computing**. Preprint can be found [here](https://doi.org/10.36227/techrxiv.23256119.v2).
 - **[Apr 2024]** Our demo paper titled "[Expanding PyAFAR: A Novel Privacy-Preserving Infant AU Detector](assets/papers/FG2024_demo_pyafar.pdf)" has been accepted at **FG 2024**. I will make a demo of PyAFAR infant AU detector at FG 2024.
 - **[Jan 2024]** Our paper titled "[Elucidating the exposure bias in diffusion models](https://arxiv.org/abs/2308.15321)" has been accepted at **ICLR 2024**.
 - **[Dec 2023]** Our paper titled "Face the Needle: Predicting risk of fear and fainting during blood donation through video analysis" has been accepted at **FG 2024**.

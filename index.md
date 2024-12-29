@@ -15,7 +15,9 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
+{% comment %} 
 - **[Oct 2024]** Our paper titled "Predicting vasovagal reactions to needles from video data using 2D-CNN with GRU and LSTM" has been published at **PLOS ONE**.
+{% endcomment %} 
 - **[Aug 2024]** Ronald Poppe and I received the **[Dynamics of Youth (DoY) Early Childhood Grant](https://doy-community.sites.uu.nl/early-childhood/funding-opportunities/)**! We will work on predicting development of children at the age of 3 years, by observing their interactions with a parent when they were 5 months old.
 - **[Aug 2024]** Our paper titled "Video Swin Transformers in Pain Detection: A Comprehensive Evaluation of Effectiveness, Generalizability, and Explainability" has been accepted at **Workshop on Automated Assessment of Pain at ACII 2024**.
 - **[Apr 2024]** [PyAFAR](https://pyafar.org/) is released! It features the first publicly available infant action unit (AU) detector. For more information on how to install and use it, check [our website](https://github.com/AffectAnalysisGroup/PyAFAR/wiki/3.-Installation).

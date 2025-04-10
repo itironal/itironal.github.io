@@ -15,18 +15,18 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
-{% comment %} 
-- **[Oct 2024]** Our paper titled "Predicting vasovagal reactions to needles from video data using 2D-CNN with GRU and LSTM" has been published at **PLOS ONE**.
-{% endcomment %} 
+- **[Apr 2025]** Our paper titled"Revisiting Representation Learning and Identity Adversarial Training for Facial Behavior Understanding" has been accepted at **FG 2025**.
+- **[Jan 2025]** I received the NWO SSH Open Competition XS Grant with my project ["Advancing ADHD Assessment in Children: Behavior Modeling of Parent-Child Interactions"](https://www.uu.nl/en/news/itir-onal-ertugrul-receives-nwo-ssh-xs-grant-on-automated-assessment-of-adhd)!
+- **[Oct 2024]** Our paper titled on predicting vasovagal reactions to needles from video data has been published at **PLOS ONE**.
 - **[Aug 2024]** Ronald Poppe and I received the **[Dynamics of Youth (DoY) Early Childhood Grant](https://doy-community.sites.uu.nl/early-childhood/funding-opportunities/)**! We will work on predicting development of children at the age of 3 years, by observing their interactions with a parent when they were 5 months old.
 - **[Aug 2024]** Our paper titled "Video Swin Transformers in Pain Detection: A Comprehensive Evaluation of Effectiveness, Generalizability, and Explainability" has been accepted at **Workshop on Automated Assessment of Pain at ACII 2024**.
 - **[Apr 2024]** [PyAFAR](https://pyafar.org/) is released! It features the first publicly available infant action unit (AU) detector. For more information on how to install and use it, check [our website](https://github.com/AffectAnalysisGroup/PyAFAR/wiki/3.-Installation).
 - **[Apr 2024]** Our paper titled "Multimodal prediction of obsessive-compulsive disorder, comorbid depression, and energy of deep brain stimulation" has been accepted for publication at **IEEE Transactions on Affective Computing**. Preprint can be found [here](https://doi.org/10.36227/techrxiv.23256119.v2).
+{% comment %} 
 - **[Apr 2024]** Our demo paper titled "[Expanding PyAFAR: A Novel Privacy-Preserving Infant AU Detector](assets/papers/FG2024_demo_pyafar.pdf)" has been accepted at **FG 2024**. I will make a demo of PyAFAR infant AU detector at FG 2024.
 - **[Jan 2024]** Our paper titled "[Elucidating the exposure bias in diffusion models](https://arxiv.org/abs/2308.15321)" has been accepted at **ICLR 2024**.
 - **[Dec 2023]** Our paper titled "Face the Needle: Predicting risk of fear and fainting during blood donation through video analysis" has been accepted at **FG 2024**.
 - **[Oct 2023]** Roy Hessels and I received the **[Dynamics of Youth Invigoration Grant](https://doy-community.sites.uu.nl/funding/)** for our project "Automated assessment of internalizing and externalizing behavior of children from parent-child interaction videos"!
-{% comment %} 
 - **[Aug 2023]** Our paper "[Deciphering Entrepreneurial Pitches: A Multimodal Deep Learning Approach to Predict Probability of Investment](assets/papers/ICMI_2023_deciphering.pdf)" has been accepted at ICMI 2023.
 - **[Aug 2023]** Our demo paper "[PyAFAR: Python-based automated facial action recognition for use in infants and adults](https://www.jeffcohn.net/wp-content/uploads/2023/08/ACII_2023_paper_242-2.pdf)" is accepted at ACII 2023. 
 - **[Jul 2023]** Our paper titled "[Automated measurement of infant and mother Duchenne facial expressions in the Face-to-Face/Still-Face](https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/Infancy-2023-Ahn-AutomatedmeasurementofinfantandmotherDuchennefacialexpressionsintheFace%E2%80%90to%E2%80%90Face.pdf)" has been published at Infancy.

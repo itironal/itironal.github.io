@@ -8,19 +8,62 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/2022/vtta_pipeline2.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/2025/FG2025.png" class="teaser img-fluid z-depth-1">
     <!--<abbr class="badge">BRM</abbr>-->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://drive.google.com/file/d/1mfuiUbYSnfXQ88Su5Hlf7vw75Jz07uEh/view">Fully-attentive and interpretable: vision and video
-vision transformers for pain detection</a></div>
-    <div class="author">Giacomo Fiorentini, <strong>Itir Onal Ertugrul</strong>, Albert Ali Salah</div>
-    <div class="periodical"><em>NeurIPS 2022 Workshop on Vision Transformers: Theory and Applications <strong>(VTTA)</strong>, 2022.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2407.11243">“Revisiting Representation Learning and Identity Adversarial Training for Facial Behavior Understanding”</a></div>
+    <div class="author">Mang Ning, Albert Ali Salah, <strong>Itir Onal Ertugrul</strong></div>
+    <div class="periodical"><em>International conference on automatic face & gesture recognition<strong>(FG)</strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://github.com/IPDTFE/ViT-McMaster" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/61316.png?t=1669661317.4587843" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="https://github.com/forever208/FMAE-IAT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
+  </div>
+</div>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2024/ICLR2024.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">BRM</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2308.15321">“Elucidating the Exposure Bias in Diffusion Models”</a></div>
+    <div class="author">Mang Ning, Mingxiao Li, Jianlin Su, Albert Ali Salah, <strong>Itir Onal Ertugrul</strong></div>
+    <div class="periodical"><em>International Conference on Learning Representations<strong>(ICLR)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://github.com/forever208/ADM-ES" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2024/TAFFC2024.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">BRM</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11649003/">“Multimodal Prediction of Obsessive-Compulsive Disorder and Comorbid Depression Severity and Energy Delivered by Deep Brain Electrodes”</a></div>
+    <div class="author">Saurabh Hinduja, Ali Darzi, <strong>Itir Onal Ertugrul</strong>, Nicole Provenza, Ron Gadot, Eric A Storch, Sameer A Sheth, Wayne K Goodman, Jeffrey F Cohn </div>
+    <div class="periodical"><em>Transactions on Affective Computing<strong>(TAFFC)</strong>, 2024.</em></div>
+  </div>
+</div>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/2023/ScientificReports2023.png" class="teaser img-fluid z-depth-1">
+    <!--<abbr class="badge">BRM</abbr>-->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2308.15321">“Predicting vasovagal reactions to needles with anticipatory facial temperature profiles”</a></div>
+    <div class="author">Judita Rudokaite, Sharon Ong, <strong>Itir Onal Ertugrul</strong>, Mart Janssen, Elisabeth Huis in 't Veld</div>
+    <div class="periodical"><em>Nature Scientific Reports, 2023.</em></div>
   </div>
 </div>
 

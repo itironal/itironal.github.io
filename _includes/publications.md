@@ -71,7 +71,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.15321">Predicting vasovagal reactions to needles with anticipatory facial temperature profiles</a></div>
+    <div class="title"><a href="https://www.nature.com/articles/s41598-023-36207-z">Predicting vasovagal reactions to needles with anticipatory facial temperature profiles</a></div>
     <div class="author">Judita Rudokaite, Sharon Ong, <strong>Itir Onal Ertugrul</strong>, Mart Janssen, Elisabeth Huis in 't Veld</div>
     <div class="periodical"><em>Nature Scientific Reports, 2023.</em></div>
   </div>

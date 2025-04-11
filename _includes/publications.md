@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2407.11243">“Revisiting Representation Learning and Identity Adversarial Training for Facial Behavior Understanding”</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2407.11243">Revisiting Representation Learning and Identity Adversarial Training for Facial Behavior Understanding</a></div>
     <div class="author">Mang Ning, Albert Ali Salah, <strong>Itir Onal Ertugrul</strong></div>
     <div class="periodical"><em>International conference on automatic face & gesture recognition<strong>(FG)</strong>, 2025.</em></div>
     <div class="links">
@@ -30,7 +30,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.15321">“Elucidating the Exposure Bias in Diffusion Models”</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2308.15321">Elucidating the Exposure Bias in Diffusion Models</a></div>
     <div class="author">Mang Ning, Mingxiao Li, Jianlin Su, Albert Ali Salah, <strong>Itir Onal Ertugrul</strong></div>
     <div class="periodical"><em>International Conference on Learning Representations<strong>(ICLR)</strong>, 2024.</em></div>
     <div class="links">
@@ -47,7 +47,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11649003/">“Multimodal Prediction of Obsessive-Compulsive Disorder and Comorbid Depression Severity and Energy Delivered by Deep Brain Electrodes”</a></div>
+    <div class="title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11649003/">Multimodal Prediction of Obsessive-Compulsive Disorder and Comorbid Depression Severity and Energy Delivered by Deep Brain Electrodes</a></div>
     <div class="author">Saurabh Hinduja, Ali Darzi, <strong>Itir Onal Ertugrul</strong>, Nicole Provenza, Ron Gadot, Eric A Storch, Sameer A Sheth, Wayne K Goodman, Jeffrey F Cohn </div>
     <div class="periodical"><em>Transactions on Affective Computing<strong>(TAFFC)</strong>, 2024.</em></div>
   </div>
@@ -61,7 +61,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.15321">“Predicting vasovagal reactions to needles with anticipatory facial temperature profiles”</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2308.15321">Predicting vasovagal reactions to needles with anticipatory facial temperature profiles</a></div>
     <div class="author">Judita Rudokaite, Sharon Ong, <strong>Itir Onal Ertugrul</strong>, Mart Janssen, Elisabeth Huis in 't Veld</div>
     <div class="periodical"><em>Nature Scientific Reports, 2023.</em></div>
   </div>

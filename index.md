@@ -39,4 +39,4 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 - **[Oct 2022]** Our paper on pain detection using vision transformers has been accepted to VTTA workshop at NeurIPS 2022.-->
 {% endcomment %}
 
-<!--## {% include_relative _includes/publications.md %}-->
+{% include_relative _includes/publications.md %}

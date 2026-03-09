@@ -15,6 +15,9 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
+- **[Feb 2026]** Our paper titled "Automatically Assessing Children’s Internalizing and Externalizing Behavior From Face and Head Dynamics During Parent-Child Interaction" has been published at Journal of Experimental Psychopathology!
+- **[Dec 2025]** I gave a keynote at [REACH](https://reach-uu.nl/keynote-speakers/) conference.
+- **[Nov 2025]** I became an [ELLIS](https://ellis.eu/) member!
 - **[May 2025]** Our paper titled ["DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space"](https://arxiv.org/pdf/2412.15032) has been accepted at **ICML 2025**. For code check [here](https://github.com/forever208/DCTdiff).
 - **[Apr 2025]** Our paper titled ["Revisiting Representation Learning and Identity Adversarial Training for Facial Behavior Understanding"](https://arxiv.org/pdf/2407.11243) has been accepted at **FG 2025**. For code check [here](https://github.com/forever208/FMAE-IAT).
 - **[Jan 2025]** I received the NWO SSH Open Competition XS Grant with my project ["Advancing ADHD Assessment in Children: Behavior Modeling of Parent-Child Interactions"](https://www.uu.nl/en/news/itir-onal-ertugrul-receives-nwo-ssh-xs-grant-on-automated-assessment-of-adhd)!

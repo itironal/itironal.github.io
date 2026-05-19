@@ -15,6 +15,7 @@ I'm an Assistant Professor at [Social and Affective Computing Group](https://www
 <!--## [Publications](./another-page.md)-->
 
 ## News
+- **[Mar 2026]** We have three papers accepted at **FG 2026**!
 - **[Feb 2026]** Our paper titled ["Automatically Assessing Children’s Internalizing and Externalizing Behavior From Face and Head Dynamics During Parent-Child Interaction"](https://journals.sagepub.com/doi/10.1177/20438087261432463?_gl=1*62wgxl*_up*MQ..*_ga*NTg5MTI0NTMzLjE3NzMwNzIwNzc.*_ga_60R758KFDG*czE3NzMwNzIwNzckbzEkZzAkdDE3NzMwNzIwNzckajYwJGwwJGgxNDM2MTc5MzA.) has been published at **Journal of Experimental Psychopathology**!
 - **[Dec 2025]** I gave a keynote at [REACH](https://reach-uu.nl/keynote-speakers/) conference.
 - **[Nov 2025]** I became an [ELLIS](https://ellis.eu/) member!
